@@ -1,3 +1,7 @@
 # arquivos de trabalho
 *.py
 pagina_original.html
+
+# imagem original pesada (substituida por webp)
+hero-perros.png
+hero-perros-opt.jpg
